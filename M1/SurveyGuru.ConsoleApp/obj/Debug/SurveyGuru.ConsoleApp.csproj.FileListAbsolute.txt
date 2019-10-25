@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\obj\Debug\SurveyGuru.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\obj\Debug\SurveyGuru.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\bin\Debug\SurveyGuru.ConsoleApp.exe.config
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\bin\Debug\SurveyGuru.ConsoleApp.exe
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\bin\Debug\SurveyGuru.ConsoleApp.pdb
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\bin\Debug\SurveryGuru.BussinessLogic.dll
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\bin\Debug\SurveryGuru.Entity.dll
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\bin\Debug\SurveryGuru.BussinessLogic.pdb
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\bin\Debug\SurveryGuru.BussinessLogic.dll.config
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\bin\Debug\SurveryGuru.Entity.pdb
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\bin\Debug\SurveryGuru.Entity.dll.config
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\obj\Debug\SurveyGuru.ConsoleApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\obj\Debug\SurveyGuru.ConsoleApp.exe
+C:\Users\Administrator\Desktop\SurveryGuru\SurveyGuru.ConsoleApp\obj\Debug\SurveyGuru.ConsoleApp.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0d706d3e0fe04c13b89d2717a6d891b4" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="HospitalManagementSystemModel.Billing" Width="1.5" PointX="5.5" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalManagementSystemModel.doctor" Width="1.5" PointX="0.875" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalManagementSystemModel.Lab" Width="1.5" PointX="5.5" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalManagementSystemModel.Patient" Width="1.5" PointX="3.125" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalManagementSystemModel.Treatment" Width="1.5" PointX="8" PointY="7.75" IsExpanded="true" />
+        <AssociationConnector Association="HospitalManagementSystemModel.FK__Billing__DoctorI__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalManagementSystemModel.FK__Billing__Patient__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalManagementSystemModel.FK__Lab__DoctorId__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalManagementSystemModel.FK__Patient__DoctorI__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalManagementSystemModel.FK__Lab__PatientId__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalManagementSystemModel.FK__Treatment__LabId__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalManagementSystemModel.FK__Treatment__Patie__32E0915F" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

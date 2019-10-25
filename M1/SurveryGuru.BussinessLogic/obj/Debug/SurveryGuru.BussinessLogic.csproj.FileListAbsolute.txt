@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\obj\Debug\SurveryGuru.BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\obj\Debug\SurveryGuru.BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\bin\Debug\SurveryGuru.BussinessLogic.dll.config
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\bin\Debug\SurveryGuru.BussinessLogic.dll
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\bin\Debug\SurveryGuru.BussinessLogic.pdb
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\bin\Debug\SurveryGuru.Entity.dll
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\bin\Debug\SurveryGuru.Entity.pdb
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\bin\Debug\SurveryGuru.Entity.dll.config
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\obj\Debug\SurveryGuru.BussinessLogic.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\obj\Debug\SurveryGuru.BussinessLogic.dll
+C:\Users\Administrator\Desktop\SurveryGuru\SurveryGuru.BussinessLogic\obj\Debug\SurveryGuru.BussinessLogic.pdb
